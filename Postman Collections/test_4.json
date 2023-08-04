@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "5f854328-990c-4118-9642-936f64ecdfe5",
+		"name": "Test 4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "5fdae038-962e-4765-9c1f-30be430733aa",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "OPTIONS",
+				"header": [],
+				"url": null,
+				"description": "Changed: 0.35611583960134 Time: 12:43:42"
+			},
+			"response": []
+		}
+	]
+}
