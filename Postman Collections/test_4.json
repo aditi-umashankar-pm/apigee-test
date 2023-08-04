@@ -7,14 +7,13 @@
 	"item": [
 		{
 			"name": "New Request",
-			"_postman_id": "5fdae038-962e-4765-9c1f-30be430733aa",
+			"id": "5fdae038-962e-4765-9c1f-30be430733aa",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "OPTIONS",
 				"header": [],
-				"url": null,
 				"description": "Changed: 0.35611583960134 Time: 12:43:42"
 			},
 			"response": []
