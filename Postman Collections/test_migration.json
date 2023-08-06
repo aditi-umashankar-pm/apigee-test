@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "065387c3-2c78-4f94-afb4-1314d3f29041",
+		"name": "Test1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "b4af3cbb-a570-44b7-a6a1-066d41ad5427",
+						"exec": [
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"search\");",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"_postman_id": "de5da8f1-fdc0-41f1-a600-74c86f3fdb79",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.google.com"
+			},
+			"response": []
+		}
+	]
+}
