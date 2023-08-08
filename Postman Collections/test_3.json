@@ -2,7 +2,6 @@
 	"info": {
 		"_postman_id": "d73fd072-10bf-49ab-a4d5-11d1fafe8835",
 		"name": "Test 3",
-		"description": "Update",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
