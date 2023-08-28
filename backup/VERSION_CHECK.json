@@ -358,14 +358,14 @@
 				{
 					"listen": "prerequest",
 					"script": {
+						"id": "bc4d8d11-05b6-4459-8a9b-a2a65acf2d05",
 						"exec": [
 							"console.log('ah hah!');",
 							"let a = 'new variable for laughs';",
 							"var b='newer';",
 							"var aaaaa;"
 						],
-						"type": "text/javascript",
-						"id": "bc4d8d11-05b6-4459-8a9b-a2a65acf2d05"
+						"type": "text/javascript"
 					}
 				}
 			],
@@ -374,7 +374,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [
 					{
 						"key": "host",
