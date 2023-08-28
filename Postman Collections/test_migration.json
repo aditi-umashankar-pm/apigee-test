@@ -367,6 +367,16 @@
 						],
 						"type": "text/javascript"
 					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "57e5a329-3321-41c0-a7d7-f28679486fae",
+						"exec": [
+							"var a;"
+						],
+						"type": "text/javascript"
+					}
 				}
 			],
 			"id": "de5da8f1-fdc0-41f1-a600-74c86f3fdb79",
