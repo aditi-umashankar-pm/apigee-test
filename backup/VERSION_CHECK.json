@@ -7,7 +7,32 @@
 	"item": [
 		{
 			"name": "newww",
-			"item": [],
+			"item": [
+				{
+					"name": "name",
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "6b8919b1-0a34-4439-9dfd-02a48fcc619f",
+								"exec": [
+									"aaaaaa"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"id": "9c62d064-b204-48d6-86bb-ce8a5391952f",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
 			"id": "4f2f0165-7af1-47ca-aeed-7311826334e9"
 		},
 		{
