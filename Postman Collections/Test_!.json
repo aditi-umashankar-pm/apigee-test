@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "5ba2e6f3-8ef9-449b-903d-5aa7cce7b3ae",
 		"name": "Test 1",
+		"description": "UPdate the collection for events\n\nupdate  \nupdate",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
