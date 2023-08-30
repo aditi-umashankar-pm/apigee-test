@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "93d812a3-0fc2-4b8c-8489-42e2b4abddef",
 		"name": "Test 2",
+		"description": "Update in sleep time\n\nupdate  \nupdate",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
