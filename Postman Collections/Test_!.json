@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "5ba2e6f3-8ef9-449b-903d-5aa7cce7b3ae",
 		"name": "Test 1",
-		"description": "UPdate the collection for events\n\nupdate  \nupdate",
+		"description": "UPdate the collection for events\n\nupdate  \nupdate\n\nOQEHSUDFQKUHESALKDF",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -30,19 +30,22 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "c509f591-91b9-4e5b-a60c-dc3ec34e8609",
+				"id": "f159c70b-6ff6-445e-b23c-40280a75a626",
 				"type": "text/javascript",
 				"exec": [
 					"kjsdhfkjshdfkh;eskj",
 					";eskdjhfjk",
-					"kjsdhfkjshdfkh"
+					"kjsdhfkjshdfkh",
+					"ASFILJSKDJH",
+					"SDKLFKJSH",
+					"EKSHFKHS"
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "d224a2cc-d62b-46ba-b9c3-46466da55ade",
+				"id": "a78a2d41-ed83-4f21-8a46-8234fe8956ee",
 				"type": "text/javascript",
 				"exec": [
 					""
