@@ -19,7 +19,8 @@
 					"script": {
 						"id": "13e99aaf-2bca-47f7-886f-07c3af999dfe",
 						"exec": [
-							"testetetst"
+							"testetetst",
+							"testtest"
 						],
 						"type": "text/javascript"
 					}
