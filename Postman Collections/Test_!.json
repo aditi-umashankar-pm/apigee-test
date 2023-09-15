@@ -13,6 +13,18 @@
 		},
 		{
 			"name": "New Request",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "13e99aaf-2bca-47f7-886f-07c3af999dfe",
+						"exec": [
+							"testetetst"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "6fb0cd4c-b3f6-4c95-97e1-e296687c2141",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
