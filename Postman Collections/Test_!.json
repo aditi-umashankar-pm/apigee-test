@@ -49,25 +49,17 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "0ab0292e-b290-4967-ac1e-2957a7bc9919",
+				"id": "c06435f7-221f-48c0-9270-50b80688d0e7",
 				"type": "text/javascript",
 				"exec": [
-					"kjsdhfkjshdfkh;eskj",
-					";eskdjhfjk",
-					"kjsdhfkjshdfkh",
-					"ASFILJSKDJH",
-					"SDKLFKJSH",
-					"wsdlhfluwdhs",
-					"ldkjflkdklfdlkjlkj",
-					"dkdkdkdkdk",
-					"EKSHFKHS"
+					""
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "eabcf48f-dce9-4724-bedd-4bc0aa0c6896",
+				"id": "42755ae5-dda1-491b-9590-0d4436f5ec35",
 				"type": "text/javascript",
 				"exec": [
 					""
