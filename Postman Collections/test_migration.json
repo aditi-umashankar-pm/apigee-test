@@ -7,172 +7,6 @@
 	},
 	"item": [
 		{
-			"name": "new name",
-			"item": [
-				{
-					"name": "/audio/72d0b0314b4212f5654295cc9a27be6197b1ec72",
-					"id": "b2002a6e-b4e9-4c05-86b4-987f76ddc010",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"method": "GET",
-						"header": [
-							{
-								"key": "host",
-								"value": "audio-ak-spotify-com.akamaized.net"
-							},
-							{
-								"key": "connection",
-								"value": "keep-alive"
-							},
-							{
-								"key": "pragma",
-								"value": "no-cache"
-							},
-							{
-								"key": "cache-control",
-								"value": "no-cache, no-store"
-							},
-							{
-								"key": "accept-encoding",
-								"value": ""
-							},
-							{
-								"key": "range",
-								"value": "bytes=0-524287"
-							},
-							{
-								"key": "user-agent",
-								"value": "Spotify/119900878 OSX/0 (MacBookPro16,2)"
-							},
-							{
-								"key": "accept-language",
-								"value": "en"
-							},
-							{
-								"key": "sec-fetch-site",
-								"value": "same-origin"
-							},
-							{
-								"key": "sec-fetch-mode",
-								"value": "no-cors"
-							},
-							{
-								"key": "sec-fetch-dest",
-								"value": "empty"
-							},
-							{
-								"key": "x-postman-captr",
-								"value": "6219973"
-							}
-						],
-						"url": {
-							"raw": "https://audio-ak-spotify-com.akamaized.net/audio/72d0b0314b4212f5654295cc9a27be6197b1ec72?__token__=exp=1674636072~hmac=fb08340351c3f8683526719bbcf9000b97777f07828ae5e229bce3267ad9b491",
-							"protocol": "https",
-							"host": [
-								"audio-ak-spotify-com",
-								"akamaized",
-								"net"
-							],
-							"path": [
-								"audio",
-								"72d0b0314b4212f5654295cc9a27be6197b1ec72"
-							],
-							"query": [
-								{
-									"key": "__token__",
-									"value": "exp=1674636072~hmac=fb08340351c3f8683526719bbcf9000b97777f07828ae5e229bce3267ad9b491"
-								}
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "/audio/c6c1fb9f7dff3604a4422d5686eeacda49cc878a",
-					"id": "a97a225c-3d5b-42bd-8ca1-16e0e11f7322",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"method": "GET",
-						"header": [
-							{
-								"key": "host",
-								"value": "audio-ak-spotify-com.akamaized.net"
-							},
-							{
-								"key": "connection",
-								"value": "keep-alive"
-							},
-							{
-								"key": "pragma",
-								"value": "no-cache"
-							},
-							{
-								"key": "cache-control",
-								"value": "no-cache, no-store"
-							},
-							{
-								"key": "accept-encoding",
-								"value": ""
-							},
-							{
-								"key": "range",
-								"value": "bytes=0-524287"
-							},
-							{
-								"key": "user-agent",
-								"value": "Spotify/119900878 OSX/0 (MacBookPro16,2)"
-							},
-							{
-								"key": "accept-language",
-								"value": "en"
-							},
-							{
-								"key": "sec-fetch-site",
-								"value": "same-origin"
-							},
-							{
-								"key": "sec-fetch-mode",
-								"value": "no-cors"
-							},
-							{
-								"key": "sec-fetch-dest",
-								"value": "empty"
-							},
-							{
-								"key": "x-postman-captr",
-								"value": "990325"
-							}
-						],
-						"url": {
-							"raw": "https://audio-ak-spotify-com.akamaized.net/audio/c6c1fb9f7dff3604a4422d5686eeacda49cc878a?__token__=exp=1674636074~hmac=98cffad5ecffbc8fe3c173a7f271fd43197e5e1b5de7626db9f0ee6cbcc7e487",
-							"protocol": "https",
-							"host": [
-								"audio-ak-spotify-com",
-								"akamaized",
-								"net"
-							],
-							"path": [
-								"audio",
-								"c6c1fb9f7dff3604a4422d5686eeacda49cc878a"
-							],
-							"query": [
-								{
-									"key": "__token__",
-									"value": "exp=1674636074~hmac=98cffad5ecffbc8fe3c173a7f271fd43197e5e1b5de7626db9f0ee6cbcc7e487"
-								}
-							]
-						}
-					},
-					"response": []
-				}
-			],
-			"id": "d8b8f179-24bf-49bb-86b2-02c0a6479779"
-		},
-		{
 			"name": "bifrost-https-v4-global.gw.postman-beta.com",
 			"item": [
 				{
@@ -396,14 +230,12 @@
 				{
 					"listen": "prerequest",
 					"script": {
+						"id": "9f9f6bea-7cf3-4321-bc9b-7c119033bf6f",
 						"exec": [
-							"console.log('ah hah!');",
-							"let a = 'new variable for laughs';",
-							"var b='newer';",
-							"var aaaaa;"
+							"// script thigns",
+							"// so many scripts"
 						],
-						"type": "text/javascript",
-						"id": "9f9f6bea-7cf3-4321-bc9b-7c119033bf6f"
+						"type": "text/javascript"
 					}
 				}
 			],
